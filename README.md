@@ -1,5 +1,5 @@
 # Vehicle Logo Recognition using CNN
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/cc8e867b-eae2-403f-8de9-1e223cca048a" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cc8e867b-eae2-403f-8de9-1e223cca048a" />
 
 A lightweight deep learning project that applies Convolutional Neural Networks (CNNs) to recognize vehicle brand logos from images and real-time webcam input, designed for academic study and practical demonstration.
 
